@@ -4,7 +4,7 @@ const MongoClient = require('mongodb').MongoClient
 
 var db, collection;
 
-const url = 'Add DB string''; // DataBase url
+const url = 'mongodb+srv://project:project@cluster0.l6nuk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';  
 const dbName = "palindrome";   //Data base name.
 
 
