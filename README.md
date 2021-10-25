@@ -1,6 +1,5 @@
-# Node Social Network
-This CRUD app with user login and authentication allows you to create, update, and delete posts. All uploaded images are stored using Cloudinary. User account information is stored elsewhere in MongoDB.
-
+# Palindrome Checker
+The Palindrome Checker is an app that allows users to check whether a word is a palindrome. The checker uses express.js to check for the palindromes in the server-side. 
 <article>
       <div>
   <div>
