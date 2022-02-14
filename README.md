@@ -1,4 +1,4 @@
-# Palindrome Checker
+# Palindrome Checker Express practice.
 The Palindrome Checker is an app that allows users to check whether a word is a palindrome. The checker uses express.js to check for the palindromes in the server-side. 
 <article>
       <div>
